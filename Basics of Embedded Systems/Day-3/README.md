@@ -1,0 +1,1 @@
+Understood the microcontroller architecture
