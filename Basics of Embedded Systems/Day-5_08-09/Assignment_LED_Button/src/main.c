@@ -7,7 +7,7 @@
 
 int main(void) {
     DDRD |= (1 << LED_PIN);
-    DDRD &= ~(1 << BUTTON_PIN);
+    // DDRD &= ~(1 << BUTTON_PIN);
     PIND |= (1 << BUTTON_PIN);
 
     while (1) {
