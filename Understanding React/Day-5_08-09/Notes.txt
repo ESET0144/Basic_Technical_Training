@@ -1,0 +1,11 @@
+
+reduce method - accumulator
+map function - Nowadays widely used - transform arrays into elements - with condition
+
+
+Pehle class compnents hi use hote the, abhi functional components naye aaye- same hi hai
+ek hi diff hai- 
+class components me ek extra function rerendering ke liye, functional component me wo nahi hota
+
+
+state variable me indirect mutation allowed hai, not direct
