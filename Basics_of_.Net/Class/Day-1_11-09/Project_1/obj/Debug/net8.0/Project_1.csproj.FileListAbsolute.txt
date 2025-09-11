@@ -1,0 +1,15 @@
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\bin\Debug\net8.0\Project_1.exe
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\bin\Debug\net8.0\Project_1.deps.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\bin\Debug\net8.0\Project_1.runtimeconfig.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\bin\Debug\net8.0\Project_1.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\bin\Debug\net8.0\Project_1.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.sourcelink.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\refint\Project_1.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\Project_1.genruntimeconfig.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-1_11-09\Project_1\obj\Debug\net8.0\ref\Project_1.dll

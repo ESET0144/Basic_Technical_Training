@@ -1,0 +1,24 @@
+{
+    "json.schemas": [],
+    "launch": {
+        "editor.wordWrap": "off",
+
+        "editor.wrappingIndent": "none",
+
+"editor.quickSuggestions": false,
+
+"editor.quickSuggestionsDelay": 90,
+
+"editor.parameterHints": false,
+
+"editor.autoClosingBrackets": false,
+
+"editor.formatOnType": false,
+
+"editor.suggestOnTriggerCharacters": false,
+
+"editor.acceptSuggestionOnEnter": "off",
+
+        "editor.suggestontriggerCharacters": false
+    }
+}
