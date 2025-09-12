@@ -1,0 +1,15 @@
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\bin\Debug\net8.0\Book_Store.exe
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\bin\Debug\net8.0\Book_Store.deps.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\bin\Debug\net8.0\Book_Store.runtimeconfig.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\bin\Debug\net8.0\Book_Store.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\bin\Debug\net8.0\Book_Store.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.sourcelink.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\refint\Book_Store.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\Book_Store.genruntimeconfig.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-2_12-09\Book_Store\obj\Debug\net8.0\ref\Book_Store.dll
