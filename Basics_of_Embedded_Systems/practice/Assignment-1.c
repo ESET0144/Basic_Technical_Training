@@ -23,44 +23,36 @@ void delay_ms(int ms) {
 void main() {
     int counter = 0; 	// Initialize counter variable
     int max_blinks = 5; 	// Maximum number of blinks
-    int threshold = 3; 	// Threshold for conditional check
+    int threshold = 4; 	// Threshold for conditional check
 
     int i,j;
     
     // The for loop iterates a known number of times (max_blinks)
-    for (i=0;i<=counter;i++)
+    for (counter = 0; counter <= threshold;counter ++)
     {
         for (j=0;j<=max_blinks;j++)
-        {
-            
+        { 
              // Conditional statement (if-else)
         // Checks if the current counter value is less than the threshold
-        if (counter<=threshold)
-        {
+        
             // Simulate turning LED ON (e.g., set pin high)
             printf("LED ON (Counter: %d)\n", counter); 	// For simulation
              			// Delay for 200 milliseconds
-                    delay_ms(200000);
+                    delay_ms(2000);
             // Simulate turning LED OFF (e.g., set pin low)
             printf("LED OFF (Counter: %d)\n", counter); 	// For simulation
              		// Delay for 200 milliseconds
-                    delay_ms(200000);
-        }
-        //else 
-        else 
-        {
-            // If the counter is at or above the threshold
-            printf("Counter reached threshold or above: %d\n", counter);
-            		 // Longer delay
-                     delay_ms(1000);
+                    delay_ms(2000);
+        
+       
                     
         
         // Increment operator (++) used in the for loop condition
         // counter++ is equivalent to counter = counter + 1;
     
         }
-        } 
-    }
+    } 
+    
         
     
 
@@ -77,6 +69,7 @@ void main() {
         printf("Countdown: %d\n", countdown);
          		// Decrement operator (--)
          //delay timer
+         delay_ms(20000);
          countdown--;
     }
     printf("Liftoff!\n");
