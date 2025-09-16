@@ -1,0 +1,5 @@
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_16-09\DLMS_GET\obj\Debug\net8.0\DLMS_GET.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_16-09\DLMS_GET\obj\Debug\net8.0\DLMS_GET.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_16-09\DLMS_GET\obj\Debug\net8.0\DLMS_GET.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_16-09\DLMS_GET\obj\Debug\net8.0\DLMS_GET.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_16-09\DLMS_GET\obj\Debug\net8.0\DLMS_GET.sourcelink.json
