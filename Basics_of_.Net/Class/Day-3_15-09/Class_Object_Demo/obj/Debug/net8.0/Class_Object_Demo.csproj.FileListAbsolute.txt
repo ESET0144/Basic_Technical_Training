@@ -1,0 +1,15 @@
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.sourcelink.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.exe
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.deps.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.runtimeconfig.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\bin\Debug\net8.0\Class_Object_Demo.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\refint\Class_Object_Demo.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\Class_Object_Demo.genruntimeconfig.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-3_15-09\Class_Object_Demo\obj\Debug\net8.0\ref\Class_Object_Demo.dll
