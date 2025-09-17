@@ -1,0 +1,15 @@
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.sourcelink.json
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\bin\Debug\net8.0\Datastructure_demo.exe
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\bin\Debug\net8.0\Datastructure_demo.deps.json
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\bin\Debug\net8.0\Datastructure_demo.runtimeconfig.json
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\bin\Debug\net8.0\Datastructure_demo.dll
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\bin\Debug\net8.0\Datastructure_demo.pdb
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.dll
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\refint\Datastructure_demo.dll
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.pdb
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\Datastructure_demo.genruntimeconfig.cache
+D:\Basic_Technical_Training\Basics_of_DLMS\Day-2_17-09\Datastructure_demo\obj\Debug\net8.0\ref\Datastructure_demo.dll

@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2250511D-8DCC-4CB1-9DCE-848498AEC02F}|Datastructure_demo.csproj|d:\\basic_technical_training\\basics_of_dlms\\day-2_17-09\\datastructure_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2250511D-8DCC-4CB1-9DCE-848498AEC02F}|Datastructure_demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2250511D-8DCC-4CB1-9DCE-848498AEC02F}|Datastructure_demo.csproj|d:\\basic_technical_training\\basics_of_dlms\\day-2_17-09\\datastructure_demo\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2250511D-8DCC-4CB1-9DCE-848498AEC02F}|Datastructure_demo.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:08:19.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wBIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:07:10.517Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
