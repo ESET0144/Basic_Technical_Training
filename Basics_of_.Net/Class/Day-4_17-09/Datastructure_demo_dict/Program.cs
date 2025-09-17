@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Student S1 = new Student(10, "Uday", {{"Maths", 45});
-            Student S2 = new Student(20, "Mano", 34);
-            Student S3 = new Student(30, "Dev", 56);
+            Student S1 = new Student(10, "Uday", new Dictionary<string, int> { { "Maths", 45 }, { "English", 50 }, { "Science", 34 } });
+            Student S2 = new Student(20, "Mano", new Dictionary<string, int> { { "Maths", 54 }, { "English", 50 }, { "Science", 34 } });
+            Student S3 = new Student(30, "Dev", new Dictionary<string, int> { { "Maths", 45 }, { "English", 50 }, { "Science", 34 } });
 
             List<Student> student_list = new List<Student>();
 
@@ -23,7 +23,7 @@
                 
                 Console.Write(student.student_id + "   ");
                 Console.Write(student.student_name + "   ");
-                Console.Write(student.student_marks + "   ");
+                Console.Write(string.Join(", ", student.student_marks.Select(m => m.Key + ":" + m.Value)) + "   ");
                 Console.WriteLine("\n");
 
             }
