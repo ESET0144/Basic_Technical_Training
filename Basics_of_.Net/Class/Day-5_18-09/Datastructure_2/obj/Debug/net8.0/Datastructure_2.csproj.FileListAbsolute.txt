@@ -1,0 +1,15 @@
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\bin\Debug\net8.0\Datastructure_2.exe
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\bin\Debug\net8.0\Datastructure_2.deps.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\bin\Debug\net8.0\Datastructure_2.runtimeconfig.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\bin\Debug\net8.0\Datastructure_2.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\bin\Debug\net8.0\Datastructure_2.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.sourcelink.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\refint\Datastructure_2.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\Datastructure_2.genruntimeconfig.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-5_18-09\Datastructure_2\obj\Debug\net8.0\ref\Datastructure_2.dll
