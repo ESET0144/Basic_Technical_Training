@@ -43,10 +43,22 @@ export default function FormEventComponent() {
     
   return (
 
-    <div>
-        <input type="text" value={username} placeholder= "enter your username" onChange={onUsername}/>
-        <input type="text" value={password} placeholder= "enter your password" onChange={onPassword}/>    
+    <div> Welcome to the Login Page !!
+      <br/>
+      <form>
+      <input type="text" value={username} placeholder= "enter your username" onChange={onUsername}/>
+        <br/>
+        <input type="text" value={password} placeholder= "enter your password" onChange={onPassword}/>
+        <br/>    
         <button onClick={buttonHandler}>Click me</button>
+        </form>
+
+        {/* In this these three are independent - we can use form
+        <input type="text" value={username} placeholder= "enter your username" onChange={onUsername}/>
+        <br/>
+        <input type="text" value={password} placeholder= "enter your password" onChange={onPassword}/>
+        <br/>    
+        <button onClick={buttonHandler}>Click me</button> */}
         
     </div>
   )
