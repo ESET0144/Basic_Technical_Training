@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF5C097-619D-49D7-8ECF-97B22AFA96DC}|DLMS_GET.csproj|d:\\basic_technical_training\\basics_of_dlms\\day-3_18-09\\dlms_get\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF5C097-619D-49D7-8ECF-97B22AFA96DC}|DLMS_GET.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF5C097-619D-49D7-8ECF-97B22AFA96DC}|DLMS_GET.csproj|d:\\basic_technical_training\\basics_of_dlms\\day-3_18-09\\dlms_get\\obiscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF5C097-619D-49D7-8ECF-97B22AFA96DC}|DLMS_GET.csproj|solutionrelative:obiscode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEF5C097-619D-49D7-8ECF-97B22AFA96DC}|DLMS_GET.csproj|d:\\basic_technical_training\\basics_of_dlms\\day-3_18-09\\dlms_get\\get_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEF5C097-619D-49D7-8ECF-97B22AFA96DC}|DLMS_GET.csproj|solutionrelative:get_set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GET_SET.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\GET_SET.cs",
+              "RelativeDocumentMoniker": "GET_SET.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\GET_SET.cs",
+              "RelativeToolTip": "GET_SET.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:35:37.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObisCode.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\ObisCode.cs",
+              "RelativeDocumentMoniker": "ObisCode.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\ObisCode.cs",
+              "RelativeToolTip": "ObisCode.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T04:57:17.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-3_18-09\\DLMS_GET\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T04:54:14.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
