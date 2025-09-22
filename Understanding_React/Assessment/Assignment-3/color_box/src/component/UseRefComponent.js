@@ -7,18 +7,24 @@ export default function UseRefComponent() {
 
   const highlightNext = () => {
     const boxes = boxesRef.current;
-    //if (current >= 0) boxes[current].style.border = "";
+    if (current >= 0) boxes[current].style.border = "";
     const next = (current + 1) % colors.length;
     console.log(next);
-    boxes[next].style.border = "2px solid black";
+
+    if (boxes[next]) {
+      console.log("It's in the condition");
+      boxes[1].style.border = "5px solid yellow"; // thin, visible
+      boxes[1].style.padding = "5px"; // optional, keeps inner size correct
+    }
     setCurrent(next);
-    console.log(boxesRef.current[next]);
+    //console.log(boxesRef.current[next]);
   }; 
 
   const highlightAll = () => {
     const boxes = boxesRef.current; // array of refs
   boxes.forEach(box => {
     if (box) { // make sure box exists
+      console.log("All Highlighted")
       box.style.border = "5px solid black";
     }});
   }; 
@@ -35,9 +41,8 @@ export default function UseRefComponent() {
       <Box color = "red" index = {0}/>
       <Box color = "green" index = {1}/>
       <Box color = "blue" index = {2}/>
-      <div>
-        <button onClick={highlightNext}> Highlight next box</button>
-      </div>
+      <button onClick={highlightAll}> Highlight next box</button>
+      
     </div>
   )
 }
