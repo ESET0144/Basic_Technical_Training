@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC8E909-FE3D-4E17-A97C-FDCCBA84A494}|bank.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-10_24-09\\bank\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC8E909-FE3D-4E17-A97C-FDCCBA84A494}|bank.csproj|solutionrelative:account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC8E909-FE3D-4E17-A97C-FDCCBA84A494}|bank.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-10_24-09\\bank\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC8E909-FE3D-4E17-A97C-FDCCBA84A494}|bank.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC8E909-FE3D-4E17-A97C-FDCCBA84A494}|bank.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-10_24-09\\bank\\program 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC8E909-FE3D-4E17-A97C-FDCCBA84A494}|bank.csproj|solutionrelative:program 4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:31:41.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\Account.cs",
+              "RelativeDocumentMoniker": "Account.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\Account.cs",
+              "RelativeToolTip": "Account.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:29:48.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program 4.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\Program 4.cs",
+              "RelativeDocumentMoniker": "Program 4.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\bank\\Program 4.cs",
+              "RelativeToolTip": "Program 4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:25:59.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

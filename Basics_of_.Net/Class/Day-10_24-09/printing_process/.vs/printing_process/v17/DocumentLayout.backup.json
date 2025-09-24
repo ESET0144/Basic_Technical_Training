@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19634EB6-B66D-4A11-8115-C54545638C80}|printing_process.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-10_24-09\\printing_process\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19634EB6-B66D-4A11-8115-C54545638C80}|printing_process.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19634EB6-B66D-4A11-8115-C54545638C80}|printing_process.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-10_24-09\\printing_process\\printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19634EB6-B66D-4A11-8115-C54545638C80}|printing_process.csproj|solutionrelative:printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19634EB6-B66D-4A11-8115-C54545638C80}|printing_process.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-10_24-09\\printing_process\\epson_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19634EB6-B66D-4A11-8115-C54545638C80}|printing_process.csproj|solutionrelative:epson_printer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "epson_printer.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\epson_printer.cs",
+              "RelativeDocumentMoniker": "epson_printer.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\epson_printer.cs",
+              "RelativeToolTip": "epson_printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:56:38.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "printer.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\printer.cs",
+              "RelativeDocumentMoniker": "printer.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\printer.cs",
+              "RelativeToolTip": "printer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:51:57.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-10_24-09\\printing_process\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T11:51:37.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

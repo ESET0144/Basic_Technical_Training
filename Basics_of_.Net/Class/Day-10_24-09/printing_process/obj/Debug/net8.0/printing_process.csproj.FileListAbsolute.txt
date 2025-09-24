@@ -1,0 +1,15 @@
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\bin\Debug\net8.0\printing_process.exe
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\bin\Debug\net8.0\printing_process.deps.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\bin\Debug\net8.0\printing_process.runtimeconfig.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\bin\Debug\net8.0\printing_process.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\bin\Debug\net8.0\printing_process.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.AssemblyInfo.cs
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.sourcelink.json
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\refint\printing_process.dll
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.pdb
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\printing_process.genruntimeconfig.cache
+D:\Basic_Technical_Training\Basics_of_.Net\Class\Day-10_24-09\printing_process\obj\Debug\net8.0\ref\printing_process.dll
