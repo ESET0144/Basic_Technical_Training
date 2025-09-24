@@ -18,7 +18,7 @@
                 string name = null;
                 string displayName = name ?? "Unknown";
                 Console.WriteLine(displayName); // Output: Unknown
-                Console.WriteLine(myResult.firstnumber); // Output: Unknown
+                Console.WriteLine(myResult.firstnumber);
 
         }
         static (int firstnumber, int secondnumber, int result) Addition(int firstnumber, int secondnumber)

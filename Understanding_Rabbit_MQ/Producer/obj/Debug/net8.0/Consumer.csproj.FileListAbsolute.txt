@@ -1,0 +1,6 @@
+D:\Basic_Technical_Training\Understanding_Rabbit_MQ\Consumer\obj\Debug\net8.0\Consumer.csproj.AssemblyReference.cache
+D:\Basic_Technical_Training\Understanding_Rabbit_MQ\Consumer\obj\Debug\net8.0\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic_Technical_Training\Understanding_Rabbit_MQ\Consumer\obj\Debug\net8.0\Consumer.AssemblyInfoInputs.cache
+D:\Basic_Technical_Training\Understanding_Rabbit_MQ\Consumer\obj\Debug\net8.0\Consumer.AssemblyInfo.cs
+D:\Basic_Technical_Training\Understanding_Rabbit_MQ\Consumer\obj\Debug\net8.0\Consumer.csproj.CoreCompileInputs.cache
+D:\Basic_Technical_Training\Understanding_Rabbit_MQ\Consumer\obj\Debug\net8.0\Consumer.sourcelink.json
