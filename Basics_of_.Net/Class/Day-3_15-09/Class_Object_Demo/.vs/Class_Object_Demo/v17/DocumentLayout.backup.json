@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -32,7 +28,7 @@
               "RelativeDocumentMoniker": "student.cs",
               "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-3_15-09\\Class_Object_Demo\\student.cs",
               "RelativeToolTip": "student.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T09:29:09.301Z",
               "EditorCaption": ""
@@ -43,12 +39,16 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-3_15-09\\Class_Object_Demo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-3_15-09\\Class_Object_Demo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-3_15-09\\Class_Object_Demo\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T09:22:42.848Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-5_18-09\\Datastructure_2\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{650114BE-D950-4A0A-8E1E-F246FAED1D1F}|Datastructure_2.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-5_18-09\\datastructure_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650114BE-D950-4A0A-8E1E-F246FAED1D1F}|Datastructure_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{650114BE-D950-4A0A-8E1E-F246FAED1D1F}|Datastructure_2.csproj|d:\\basic_technical_training\\basics_of_.net\\class\\day-5_18-09\\datastructure_2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{650114BE-D950-4A0A-8E1E-F246FAED1D1F}|Datastructure_2.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,34 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-5_18-09\\Datastructure_2\\Student.cs",
-              "RelativeDocumentMoniker": "Student.cs",
-              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-5_18-09\\Datastructure_2\\Student.cs",
-              "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T09:19:09.722Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-5_18-09\\Datastructure_2\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-5_18-09\\Datastructure_2\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBYAAABTAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-18T09:17:00.357Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"

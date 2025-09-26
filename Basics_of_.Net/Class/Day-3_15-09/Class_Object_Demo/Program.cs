@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            student first = new student(1, "Uday", "01/01/2020", "abc@gmail.com");
+            student first = new student();
             first.showDisplay();
             first.initialize();
             first.student_name = "Raj";

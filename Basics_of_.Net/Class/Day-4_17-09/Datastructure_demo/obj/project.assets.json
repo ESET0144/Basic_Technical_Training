@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\Datastructure_demo.csproj",
+      "projectUniqueName": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-4_17-09\\Datastructure_demo\\Datastructure_demo.csproj",
       "projectName": "Datastructure_demo",
-      "projectPath": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\Datastructure_demo.csproj",
+      "projectPath": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-4_17-09\\Datastructure_demo\\Datastructure_demo.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\Basic_Technical_Training\\Basics_of_DLMS\\Day-2_17-09\\Datastructure_demo\\obj\\",
+      "outputPath": "D:\\Basic_Technical_Training\\Basics_of_.Net\\Class\\Day-4_17-09\\Datastructure_demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
