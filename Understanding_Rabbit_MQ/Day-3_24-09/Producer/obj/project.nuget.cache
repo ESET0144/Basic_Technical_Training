@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ChR1A0jLdXc=",
+  "dgSpecHash": "zd5Q00QnBFM=",
   "success": true,
-  "projectFilePath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Producer.csproj",
+  "projectFilePath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Producer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\rabbitmq.client\\7.1.2\\rabbitmq.client.7.1.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",

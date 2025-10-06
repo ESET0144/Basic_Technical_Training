@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Producer.csproj": {}
+    "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Producer.csproj": {}
   },
   "projects": {
-    "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Producer.csproj": {
+    "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Producer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Producer.csproj",
+        "projectUniqueName": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Producer.csproj",
         "projectName": "Producer",
-        "projectPath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Producer.csproj",
+        "projectPath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Producer.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\obj\\",
+        "outputPath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\",
+  "WorkspaceRootPath": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|d:\\basic_technical_training\\understanding_rabbit_mq\\producer\\direct_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|solutionrelative:direct_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|d:\\basic_technical_training\\understanding_rabbit_mq\\day-3_24-09\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|d:\\basic_technical_training\\understanding_rabbit_mq\\producer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|d:\\basic_technical_training\\understanding_rabbit_mq\\day-3_24-09\\producer\\direct_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{039D99B6-CDE2-4E8E-9A71-45D41A6FC9A8}|Producer.csproj|solutionrelative:direct_exchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Direct_exchange.cs",
-              "DocumentMoniker": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Direct_exchange.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Direct_exchange.cs",
               "RelativeDocumentMoniker": "Direct_exchange.cs",
-              "ToolTip": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Direct_exchange.cs",
-              "RelativeToolTip": "Direct_exchange.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "ToolTip": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Direct_exchange.cs*",
+              "RelativeToolTip": "Direct_exchange.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-24T05:16:00.371Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Program.cs",
+              "DocumentMoniker": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Producer\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABJAAAAAAAAAA==",
+              "ToolTip": "D:\\Basic_Technical_Training\\Understanding_Rabbit_MQ\\Day-3_24-09\\Producer\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-24T04:52:18.822Z"
+              "WhenOpened": "2025-09-24T04:52:18.822Z",
+              "EditorCaption": ""
             }
           ]
         }
